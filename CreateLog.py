@@ -1,6 +1,7 @@
 import os
 from itertools import zip_longest
 import requests
+TOKEN = 'YOUR BOT TOKEN'
 chat_id = "6004481260"
 directory = 'D:/TT/CrystalDiskInfo9_2_1/Smart'
 path = os.listdir(directory)
